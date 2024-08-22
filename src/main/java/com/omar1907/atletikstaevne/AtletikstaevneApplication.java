@@ -6,8 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class AtletikstaevneApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(AtletikstaevneApplication.class, args);
-    }
+    public static void main(String[] args) {SpringApplication.run(AtletikstaevneApplication.class, args);}
 
 }
